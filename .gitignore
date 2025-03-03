@@ -1,0 +1,10 @@
+# Ignore data files
+*.h5
+*.txt
+*.root
+*.yaml
+*.bin
+*.dat
+*.png
+*.pdf
+.ipynb_checkpoints
